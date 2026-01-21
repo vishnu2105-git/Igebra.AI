@@ -1,4 +1,4 @@
-# 🎓 LearnSphere AI – 
+# 🎓 LearnSphere AI 
 
 LearnSphere AI is an AI-powered personalized learning platform that generates custom study roadmaps, explains topics using adaptive AI tutoring, conducts quizzes, and provides smart feedback to help students learn efficiently.
 
