@@ -61,8 +61,9 @@ components/
 
 Create a file named **`.env.local`** in the root directory:
 
+```
 GROQ_API_KEY=your_api_key_here
-
+```
 
 
 ---
@@ -93,13 +94,15 @@ System evaluates answers
 
 AI provides feedback and revision guidance
 
-
+```
 ⚠️ Limitations
 Requires internet connection
 Depends on AI model accuracy
 No offline learning mode
 No user authentication yet
+```
 
+```
 🔮 Future Enhancements
 User login and progress tracking
 Teacher dashboards
@@ -107,11 +110,15 @@ Parent monitoring
 Voice-based AI tutor
 Multilingual support
 Mobile app version
+```
 
+```
 🏁 Conclusion
 LearnSphere AI demonstrates how Artificial Intelligence can be used to build personalized education platforms. By combining AI-based planning, teaching, testing, and feedback, it provides an adaptive and efficient learning experience for students.
+```
 
-
+```
 🙌 Author
 Vishnu Vardhan
 B.Tech Student | AI & Full Stack Developer |
+```
