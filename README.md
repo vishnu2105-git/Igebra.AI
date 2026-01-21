@@ -39,6 +39,7 @@ Instead of providing the same content to every learner, LearnSphere AI acts like
 
 ## 📁 Project Structure
 
+```
 app/
 ├─ page.tsx
 ├─ layout.tsx
@@ -51,6 +52,7 @@ components/
 ├─ RoadmapView.tsx
 └─ LessonModal.tsx
 
+```
 
 
 ---
